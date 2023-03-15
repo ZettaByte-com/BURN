@@ -15,6 +15,8 @@ The following tools should be pre installed in the system.
 
 [nuclei](https://github.com/projectdiscovery/nuclei)
 
+[assetfinder](https://github.com/tomnomnom/assetfinder)
+
 [subfinder](https://github.com/projectdiscovery/subfinder)
 
 [httpx](https://github.com/projectdiscovery/httpx)
